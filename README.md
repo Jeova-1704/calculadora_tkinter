@@ -1,5 +1,7 @@
 # calculadora executavel
 
+![Captura de tela_20230420_142904](https://user-images.githubusercontent.com/127805808/233443091-b9309fc0-2502-445d-ac8b-d4eef9f70ac5.png)
+
 ## sobre:
 <h4> Este é um pequeno projeto em Python que utiliza a biblioteca Tkinter para a interface grafica e a biblioteca pyinstaller para criar um arquivel executavel (.ex) com uma interface gráfica que cria um sistema de calculadora básica.
 E ainda o codigo fonte do projeto segue anexado acima com o nome main.py, onde fica visivel todos sistema em python utilizado no processo de criação do programa </h4>
