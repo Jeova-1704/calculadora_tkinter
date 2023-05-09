@@ -3,10 +3,10 @@ from tkinter import *
 
 # cores para serem usadas
 cor1 = "#3b3b3b"  #preto/black
-cor2= '#feffff' #brando
-cor3= '#38576b' #azul claro
-cor4= '#05142b' #cinza
-cor5= '#175dcf' #laranja
+cor2= '#feffff' #branco
+cor3= '#38576b' #azul_fosco
+cor4= '#05142b' #Azul_escuro
+cor5= '#175dcf' #azul_claro
 
 
 
